@@ -18,6 +18,7 @@ entirely at your own risk.
 | Path | What it is |
 |---|---|
 | [`crusoe-cs-ansible/`](crusoe-cs-ansible/) | Ansible playbooks, roles, dynamic inventory, and Helm charts for Crusoe Cloud k8s node operations — see its [README](crusoe-cs-ansible/README.md) for setup and usage |
+| [`crusoe-scripts/`](crusoe-scripts/) | Standalone operational scripts — currently the CMK add-on eMudhra CA fix (CoreDNS, konnectivity-agent, kube-state-metrics, cert-manager), see [`crusoe-scripts/emudhra/`](crusoe-scripts/emudhra/) |
 
 ## Conventions
 
